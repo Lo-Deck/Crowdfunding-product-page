@@ -62,7 +62,7 @@ Users should be able to:
 
 I learned how to switch between two menu using `:target`, display different page with `classList.toggle('hidden') and transfer information to modificate the data.
 
-Modificate `<svg>` when youclick on it with `innerHTML`.
+Modificate `<svg>` when you click on it with `innerHTML`.
 
 Finally reach parent and child nodes.
 
